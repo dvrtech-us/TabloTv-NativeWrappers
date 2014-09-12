@@ -1,0 +1,12 @@
+2014-09-12 16:23:02.061 Tablo Native Wrapper[16013:4842460] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/davidvanronk/Library/Developer/CoreSimulator/Devices/1859A133-5D30-405D-9DEC-7C7F188BA581/data/Containers/Data/Application/A22491D5-324B-4F2E-A5DE-18D7C8AA5AD2/Library/Cookies/Cookies.binarycookies
+2014-09-12 16:23:02.142 Tablo Native Wrapper[16013:4842460] Multi-tasking -> Device: YES, App: YES
+2014-09-12 16:23:02.153 Tablo Native Wrapper[16013:4842460] Unlimited access to network resources
+2014-09-12 16:23:02.159 Tablo Native Wrapper[16013:4842460] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-12 16:23:03.117 Tablo Native Wrapper[16013:4842460] Resetting plugins due to page load.
+2014-09-12 16:23:04.956 Tablo Native Wrapper[16013:4842460] Finished load of: file:///Users/davidvanronk/Library/Developer/CoreSimulator/Devices/1859A133-5D30-405D-9DEC-7C7F188BA581/data/Containers/Bundle/Application/2139F5B3-8786-4D10-B0C9-AE7CBD18820E/Tablo%20Native%20Wrapper.app/www/index.html
